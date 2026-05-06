@@ -127,7 +127,7 @@ It generates personalized interview questions from resumes, conducts voice-based
 
 ## 🏠 Home Dashboard
 <## 🏠 Home Dashboard
-<img width="100%" alt="Home Dashboard" src=""C:\Users\nikit\OneDrive\Pictures\Screenshots\Records interview.png"">
+<img width="100%" alt="Home Dashboard" src="C:\Users\nikit\OneDrive\Pictures\Screenshots\Records interview.png">
 
 ---
 
